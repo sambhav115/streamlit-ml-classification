@@ -1,16 +1,13 @@
 # steamlit_ml_classification
 
-<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
-
-
-To run flask application 
+To run streamlit application type this in cmd
 
 ```
-python app.py
+python -m streamlit run classification.py
 ```
 
 
-To access your flask application open new tab in and paste the url:
+To access your streamlit application open new tab in and paste the url:
 ```
-https://{your_url}.pwskills.app:5000/
+http://localhost:8501/
 ```
